@@ -1,0 +1,86 @@
+body{
+    background-color:#ECEEF0;
+
+}
+
+.main1{
+  background-color: #ffffff;
+}
+
+.font-kanit {
+    font-family: 'Kanit';
+}
+
+.navbar {
+    
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.HomeButton {
+    color: rgba(0, 0, 0, 0.665);
+    transition: color 0.3s; 
+}
+
+.HomeButton:hover {
+    color: rgb(170, 81, 81);
+}
+
+.nav-link {
+    color: rgba(0, 0, 0, 0.665);
+    font-size: 20px;
+    transition: color 0.3s; 
+}
+
+.nav-link:hover {
+    color: rgb(170, 81, 81);
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    margin-left: 10%;
+    display: flex;
+    align-items: center;
+    margin-right: 28%;
+}
+
+#banner {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border: 3px solid rgb(243, 225, 188);
+    display: flex;
+
+}
+.headers {
+    font-size: 50px;
+    font-family: 'Kanit';
+}
+.Paragraphs {
+    font-family: 'Kanit';
+}
+
+.banner {
+    justify-items: center;
+}
+
+.box {
+ width: 60%;
+}
+
+.header-link {
+  color: black;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+.header-link:hover {
+  color: burlywood;
+}
+
+.bt {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
